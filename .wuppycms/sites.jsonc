@@ -3,7 +3,8 @@
 	"sites": [
 		{
 			"key": "root",
-			"name": "WuppyCMS Starter",
+			"name": "aracprojeci",
+			"url": "https://app.wuppycms.com/preview/wuppy-fuatcangnc-aracprojeci-cb6h4/",
 			"media": "public",
 			"publishing": "review",
 			"collections": ["blog", "authors"]
